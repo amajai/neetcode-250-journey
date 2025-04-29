@@ -17,15 +17,15 @@ This repository documents my journey through the [NeetCode 250](https://neetcode
 
 ### Progress by Category
 
-#### Arrays & Hashing (5/22 problems)
+#### Arrays & Hashing (8/22 problems)
 - [x] 1. Concatenation of Array (Easy) - Revisions: 0
 - [x] 2. Contains Duplicate (Easy) - Revisions: 0
 - [x] 3. Valid Anagram (Easy) - Revisions: 0
 - [x] 4. Two Sum (Easy) - Revisions: 0
 - [x] 5. Longest Common Prefix (Easy) - Revisions: 0
-- [ ] 6. Group Anagrams (Medium) - Revisions: 0
-- [ ] 7. Remove Element (Easy) - Revisions: 0
-- [ ] 8. Majority Element (Easy) - Revisions: 0
+- [X] 6. Group Anagrams (Medium) - Revisions: 0
+- [X] 7. Remove Element (Easy) - Revisions: 0
+- [X] 8. Majority Element (Easy) - Revisions: 0
 - [ ] 9. Design HashSet (Easy) - Revisions: 0
 - [ ] 10. Design HashMap (Easy) - Revisions: 0
 - [ ] 11. Sort an Array (Medium) - Revisions: 0
@@ -41,8 +41,8 @@ This repository documents my journey through the [NeetCode 250](https://neetcode
 - [ ] 21. Subarray Sum Equals K (Medium) - Revisions: 0
 - [ ] 22. First Missing Positive (Hard) - Revisions: 0
 
-#### Two Pointers (0/13 problems)
-- [ ] 1. Reverse String (Easy) - Revisions: 0
+#### Two Pointers (1/13 problems)
+- [x] 1. Reverse String (Easy) - Revisions: 0
 - [ ] 2. Valid Palindrome (Easy) - Revisions: 0
 - [ ] 3. Valid Palindrome II (Easy) - Revisions: 0
 - [ ] 4. Merge Strings Alternately (Easy) - Revisions: 0

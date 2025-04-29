@@ -1,5 +1,24 @@
 # Daily Progress Log
 
+## April 29, 2025
+
+- **Problems solved:**
+  - [Remove Element] - [Easy]
+    - Time complexity: O(n) 
+    - Space complexity: O(n) or O(1) 
+    - Revision count: 0
+
+  - [Reverse Element] - [Easy]
+    - Time complexity: O(n) 
+    - Space complexity: O(n) or O(1) 
+    - Revision count: 0
+
+- **Challenges:**
+  - None
+
+- **Note**
+  - So far so good. Reverse element problem was very easy.
+
 ## April 28, 2025
 
 - **Problems solved:**
