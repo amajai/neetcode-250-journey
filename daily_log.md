@@ -1,5 +1,20 @@
 # Daily Progress Log
 
+## May 1, 2025
+
+- **Problems solved:**
+  - [Design HashSet] - [Easy]
+    - Time complexity: O(n) 
+    - Space complexity: O(n) or O(1) 
+    - Revision count: 0
+
+- **Challenges:**
+  - Grasping the dummy node linked list concept
+
+- **Note**
+  - Need to revise the problem again.
+
+
 ## April 29, 2025
 
 - **Problems solved:**
@@ -11,6 +26,11 @@
   - [Reverse Element] - [Easy]
     - Time complexity: O(n) 
     - Space complexity: O(n) or O(1) 
+    - Revision count: 0
+
+  - [Majority Element] - [Easy]
+    - Time complexity: O(n) 
+    - Space complexity: O(1) 
     - Revision count: 0
 
 - **Challenges:**

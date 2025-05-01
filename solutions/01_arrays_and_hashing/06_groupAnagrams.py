@@ -1,5 +1,5 @@
 """
-Difficulty: [Easy]
+Difficulty: [Medium]
 NeetCode #: [6/250]
 Date Solved: [27/04/25]
 Attempt: [First Attempt]

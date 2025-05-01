@@ -26,7 +26,7 @@ This repository documents my journey through the [NeetCode 250](https://neetcode
 - [X] 6. Group Anagrams (Medium) - Revisions: 0
 - [X] 7. Remove Element (Easy) - Revisions: 0
 - [X] 8. Majority Element (Easy) - Revisions: 0
-- [ ] 9. Design HashSet (Easy) - Revisions: 0
+- [x] 9. Design HashSet (Easy) - Revisions: 0
 - [ ] 10. Design HashMap (Easy) - Revisions: 0
 - [ ] 11. Sort an Array (Medium) - Revisions: 0
 - [ ] 12. Sort Colors (Medium) - Revisions: 0

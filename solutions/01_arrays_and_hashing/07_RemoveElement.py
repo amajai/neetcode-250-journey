@@ -6,32 +6,19 @@ Attempt: [First Attempt]
 Revision: 0
 
 Approach:
-- When loop through the numbers, keep track of the count in hashmap or using Boyer-Moore Voting Algorithm
+- Using two pointer, one at the start k and the other for looping i. When coming across a num in the array that is equal to the val
+you ignore. When num not equal the val, you replace the num at index k with num at index i, then increment k.
 
 Time Complexity: O(n)
-Space Complexity: O(n) and O(1) without using hashmap
+Space Complexity: O(1)
 
 Key Insights:
-- Boyer-Moore Voting Algorithm is effective only when majority number is more than [(array size)/2] times.
+- Have two pointers
 """
-
-# Solution 1
-def majorityElement(nums) -> int:
-    count = {}
-    maxCount = res = 0
-    for n in nums:
-        count[n] = 1 + count.get(n, 0)
-        if count[n] > maxCount:
-            maxCount = count[n]
-            res = n
-    return res
-
-# Solution 2: O(1) space
-def majorityElement(nums) -> int:
-    res = count = 0
-    for n in nums:
-        if count == 0:
-            res = n
-        count += (1 if res == n else -1)
-    return res
-
+def removeElement(nums, val) -> int:
+    k = 0
+    for i in range(len(nums)):
+        if nums[i] != val:
+            nums[k] = nums[i]
+            k += 1
+    return k
