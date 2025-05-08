@@ -1,11 +1,41 @@
 # Daily Progress Log
 
+
+## May 8, 2025
+
+- **Problems solved:**
+  - [Sort Colors] - [Medium]
+  - [Valid Palindrome] - [Easy]
+
+- **Revise:**
+  - [Sort an array] - [Medium]
+
+- **Challenges:**
+  - Remembering the merge sort function
+
+- **Note**
+  - Need more practice on merge sort
+
+## May 2, 2025
+
+- **Problems solved:**
+  - [Design HashMap] - [Easy]
+    - Time complexity: O(n/k) 
+    - Space complexity: O(k + m) 
+    - Revision count: 0
+
+- **Challenges:**
+  - None
+
+- **Note**
+  - 
+
 ## May 1, 2025
 
 - **Problems solved:**
   - [Design HashSet] - [Easy]
-    - Time complexity: O(n) 
-    - Space complexity: O(n) or O(1) 
+    - Time complexity: O(n/k) 
+    - Space complexity: O(k + m) 
     - Revision count: 0
 
 - **Challenges:**

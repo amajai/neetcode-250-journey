@@ -10,14 +10,11 @@ This repository documents my journey through the [NeetCode 250](https://neetcode
 - Track revisions and repeated practice sessions
 
 ## Progress
-- Currently completed: 5/250 problems
-- Current streak: 1 days
-- Previous strak: 3 days
-- Completed: 4
+- Currently completed: 15/250 problems
 
 ### Progress by Category
 
-#### Arrays & Hashing (8/22 problems)
+#### Arrays & Hashing (13/22 problems)
 - [x] 1. Concatenation of Array (Easy) - Revisions: 0
 - [x] 2. Contains Duplicate (Easy) - Revisions: 0
 - [x] 3. Valid Anagram (Easy) - Revisions: 0
@@ -27,9 +24,9 @@ This repository documents my journey through the [NeetCode 250](https://neetcode
 - [X] 7. Remove Element (Easy) - Revisions: 0
 - [X] 8. Majority Element (Easy) - Revisions: 0
 - [x] 9. Design HashSet (Easy) - Revisions: 0
-- [ ] 10. Design HashMap (Easy) - Revisions: 0
-- [ ] 11. Sort an Array (Medium) - Revisions: 0
-- [ ] 12. Sort Colors (Medium) - Revisions: 0
+- [x] 10. Design HashMap (Easy) - Revisions: 0
+- [x] 11. Sort an Array (Medium) - Revisions: 0
+- [x] 12. Sort Colors (Medium) - Revisions: 0
 - [ ] 13. Top K Frequent Elements (Medium) - Revisions: 0
 - [ ] 14. Encode and Decode Strings (Medium) - Revisions: 0
 - [ ] 15. Range Sum Query 2D Immutable (Medium) - Revisions: 0
@@ -41,9 +38,9 @@ This repository documents my journey through the [NeetCode 250](https://neetcode
 - [ ] 21. Subarray Sum Equals K (Medium) - Revisions: 0
 - [ ] 22. First Missing Positive (Hard) - Revisions: 0
 
-#### Two Pointers (1/13 problems)
+#### Two Pointers (2/13 problems)
 - [x] 1. Reverse String (Easy) - Revisions: 0
-- [ ] 2. Valid Palindrome (Easy) - Revisions: 0
+- [x] 2. Valid Palindrome (Easy) - Revisions: 0
 - [ ] 3. Valid Palindrome II (Easy) - Revisions: 0
 - [ ] 4. Merge Strings Alternately (Easy) - Revisions: 0
 - [ ] 5. Merge Sorted Array (Easy) - Revisions: 0

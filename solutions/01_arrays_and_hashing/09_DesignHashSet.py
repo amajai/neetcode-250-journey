@@ -6,7 +6,7 @@ Attempt: [First Attempt]
 Revision: 0 (MOST REVISE)
 
 Approach:
-- When loop through the numbers, keep track of the count in hashmap or using Boyer-Moore Voting Algorithm
+- Create a custom set method without using built-in python method. Used linked list with dummy nodes to preform hash sets operations. 
 
 Time Complexity: O(n/k) # Number of keys / size of the set 
 Space Complexity: O(k + m) # Number of unique keys plus set
